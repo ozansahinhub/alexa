@@ -1,1 +1,2 @@
-this line is going to be read locally
+avar = "details about lolin or arduino"
+secondvar = "details about temperature"
